@@ -804,15 +804,15 @@ body.lb-disable-scrolling {
     text-align: center;
 }
 .our-team .pic{
-    width: 25%;
     height: 25%;
-    border-radius: 50%;
+    width: 25%;
     margin: 0 auto 10px;
-    overflow: hidden;
 }
 .our-team .pic img{
     width: 100%;
     height: auto;
+    border-radius: 50%;
+    overflow: hidden;
 }
 .our-team .social{
     padding: 0;
