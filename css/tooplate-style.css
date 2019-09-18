@@ -62,12 +62,12 @@ section {
   background-size: cover;
 }
 
-/*#p3 {
+#p3 {
   left: 200%;
-  background-image: url(../img/gallery-bg.png);
+  background-image: url(../img/vid-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
-}*/
+}
 
 #p4 {
   left: 300%;
